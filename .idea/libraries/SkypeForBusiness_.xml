@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="SkypeForBusiness-">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/d098b1b68d186fa6632580335c95ccd0e3fbf670/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/d098b1b68d186fa6632580335c95ccd0e3fbf670/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

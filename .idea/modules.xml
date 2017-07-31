@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/kioskmeetingjoin.iml" filepath="$PROJECT_DIR$/kioskmeetingjoin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sfbdemo/sfbdemo.iml" filepath="$PROJECT_DIR$/sfbdemo/sfbdemo.iml" />
+    </modules>
+  </component>
+</project>

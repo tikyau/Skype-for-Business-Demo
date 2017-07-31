@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SkypeForBusinessTelemetryClient-">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/0b014f32578db0ef5a7900a67d607c1570cf1a79/output/jars/libs/bond-3.0.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/0b014f32578db0ef5a7900a67d607c1570cf1a79/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/0b014f32578db0ef5a7900a67d607c1570cf1a79/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

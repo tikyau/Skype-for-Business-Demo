@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="SkypeForBusinessNative-">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/3c9ab6b6dd8d7cf1809ab43670e34354987e1969/output/jars/libs/dl-video.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/3c9ab6b6dd8d7cf1809ab43670e34354987e1969/output/jars/libs/dl-common.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/3c9ab6b6dd8d7cf1809ab43670e34354987e1969/output/jars/libs/palutils.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/3c9ab6b6dd8d7cf1809ab43670e34354987e1969/output/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/3c9ab6b6dd8d7cf1809ab43670e34354987e1969/output/jars/libs/dl-audio.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/3c9ab6b6dd8d7cf1809ab43670e34354987e1969/output/jars/libs/HwVideoCodec.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/3c9ab6b6dd8d7cf1809ab43670e34354987e1969/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/3c9ab6b6dd8d7cf1809ab43670e34354987e1969/output/jars/libs/palvideo.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

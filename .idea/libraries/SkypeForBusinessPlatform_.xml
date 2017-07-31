@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="SkypeForBusinessPlatform-">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/1c2fee0cffdfb6fe511447a3ae21c7322e16f72c/output/jars/libs/okhttp.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/1c2fee0cffdfb6fe511447a3ae21c7322e16f72c/output/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/1c2fee0cffdfb6fe511447a3ae21c7322e16f72c/output/jars/libs/bcpkix-jdk15on-150.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/1c2fee0cffdfb6fe511447a3ae21c7322e16f72c/output/jars/libs/bcprov-jdk15on-150.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/1c2fee0cffdfb6fe511447a3ae21c7322e16f72c/output/jars/libs/okio.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/1c2fee0cffdfb6fe511447a3ae21c7322e16f72c/output/jars/libs/guava-18.0.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/1c2fee0cffdfb6fe511447a3ae21c7322e16f72c/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/1c2fee0cffdfb6fe511447a3ae21c7322e16f72c/output/jars/libs/localytics.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
